@@ -1659,7 +1659,7 @@ fn main() {
             create_demo_agents,
             demo1_run,
             run_demo1_once,
-            run_demo2_once,
+            //run_demo2_once,
             demo2_run,
             scheduler_tick_now,
             linkedin_post,
